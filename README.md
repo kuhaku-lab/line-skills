@@ -1,4 +1,4 @@
-# line-skills
+# line-skills(非公式)
 
 **LINE プラットフォーム開発のための Claude Code Skills セット。**
 
