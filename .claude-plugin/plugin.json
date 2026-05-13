@@ -1,0 +1,26 @@
+{
+  "name": "line-skills",
+  "version": "0.0.1",
+  "description": "Claude Code Skills for LINE platform development — Messaging API, LINE Login, LIFF, LINE MINI App, Notification Messages, and Creators Market. Up-to-date API references, design patterns, and expert guidance covering Japan, Thailand, and Taiwan.",
+  "author": {
+    "name": "kuhaku-lab",
+    "url": "https://github.com/kuhaku-lab/line-skills"
+  },
+  "homepage": "https://github.com/kuhaku-lab/line-skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuhaku-lab/line-skills.git"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "line",
+    "line-messaging-api",
+    "line-login",
+    "liff",
+    "line-mini-app",
+    "line-notification-messages",
+    "line-creators-market"
+  ]
+}
